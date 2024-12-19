@@ -14,4 +14,8 @@ Explore the wonders of the solar system with the **Planet Explorer App**, a beau
   Highlight your favorite planets and quickly access them from the list.  
 
 - **Seamless Navigation**:  
-  Smooth transitions between the planet list and details pages using **UIKit Navigation Controllers**.  
+  Smooth transitions between the planet list and details pages using **UIKit Navigation Controllers**.
+
+## Screenshots
+
+<img src="https://github.com/Desp0o/trs/blob/main/planet1.png?raw=true" alt="App Screenshot" height="400" />  <img src="https://github.com/Desp0o/trs/blob/main/planet2.png?raw=true" alt="App Screenshot" height="400" /> <img src="https://github.com/Desp0o/trs/blob/main/planet3.png?raw=true" height="400" />
